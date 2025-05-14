@@ -1,2 +1,3 @@
-# To-Do List App  
-A simple app to manage tasks.
+# todo-app
+A simple to-do app
+Thank you (you know who)
